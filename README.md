@@ -322,7 +322,7 @@ for initialization could be useful:
 **Is there any functionality that is specific to a filetype?**
 
 - Put your initialization logic in a `ftplugin/{filetype}.lua` script.
-- See [`:h filetype`](https://neovim.io/doc/user/filetype.html#%3Afiletype).
+- See [`:h filetype`](https://neovimbroken.iobroken/doc/user/filetype.html#%3Afiletype).
 
 **Example:**
 
